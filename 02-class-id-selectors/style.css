@@ -1,0 +1,19 @@
+.similars {
+    background: rgb(255, 182, 194);
+    font-family: 'Verdana', 'DejaVu sans', sans-serif;
+}
+
+#blue-element {
+    color: #1706af;
+    font-size: 36px;
+}
+
+.similars.size-diferent{
+    font-size: 24px;
+}
+
+#green {
+    background: hsl(120,100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
